@@ -1,5 +1,10 @@
 # hololens2-work-sample-202101
 
+## バージョン情報
+
+* Unity 2019.4.1f1
+* Microsoft.MixedReality.Toolkit.Unity.Examples.2.4.0.unitypackage
+
 ## おもな手順
 
 2021/01/13 現在、以下の手順を行っています。
